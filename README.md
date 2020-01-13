@@ -1,4 +1,4 @@
-# Machine-Learning on Titanic dataset to predict survival of passengers
+# Machine Learning on Titanic dataset to predict survival of passengers
 
 Methods:
   - Logistic Regression
